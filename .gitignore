@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.log
+crash.log
+terraform.tfvars.backup
+
+# SSH
+*.pem
+
+# Misc
+.DS_Store
